@@ -6,7 +6,7 @@ I am also an esteemed lecturer in the Departments of Economics, and Political Sc
 
 If you are interested in viewing examples of my work, feel free to [reach out to me](mailto:maoarcilav@gmail.com?subject=[GitHub]). As a general practice, I maintain most of my projects as private, but I am more than willing to share them upon request.
 
-Please feel free to visit my [LinkedIn]({https://www.linkedin.com/in/andres-arcila-ph-d-84435637/)!
+Please feel free to visit my [LinkedIn](https://www.linkedin.com/in/andres-arcila-ph-d-84435637/)!
 
 Some languages and tools with which I work:
 
