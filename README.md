@@ -12,9 +12,12 @@ Some languages and tools with which I work:
 
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&color=2f5b44&logoColor=white)
 ![R](https://img.shields.io/badge/-R-fff?&logo=R&color=2f5b44&logoColor=white)
+![Rstudio](https://img.shields.io/badge/-RStudio-fff?&logo=rstudio&color=2f5b44&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql&color=2f5b44&logoColor=white)
 ![Databricks](https://img.shields.io/badge/-Databricks-fff?&logo=databricks&color=2f5b44&logoColor=white)
+![Spark](https://img.shields.io/badge/-Spark-fff?&logo=apachespark&color=2f5b44&logoColor=white)
 ![Stata](https://img.shields.io/badge/-Stata-fff?&logo=stata&color=2f5b44&logoColor=white)
+
 
 
 
