@@ -1,6 +1,10 @@
 ## Hi there, welcome to my profile!👋
 
-### My name is Andres, I hold a Ph.D. in Applied Economics and I am based in Toronto, Canada. I have been working as a Senior Data Scientist for more than 2 years and I worked at TD Bank in the Risk Management department for more than a year. I am also a lecturer in the Department of Economics, and Political Science at the University of Waterloo where I teach Econometrics, Statistical Research Methods, and Public Economics. If you'd like to see examples of my work, please [contact me](mailto:maoarcilav@gmail.com?subject=[GitHub]), as I keep most of my projects private by default.
+### My name is Andres, and I hold a Ph.D. in Applied Economics. Currently based in Toronto, Canada, I have over 2 years of experience as a Senior Data Scientist. In addition to my expertise in data science, I possess a background in the financial sector, having previously worked at TD Bank in the Risk Management department for more than a year.
+
+I am also an esteemed lecturer in the Departments of Economics, and Political Science at the University of Waterloo. In this role, I teach courses in Econometrics, Statistical Research Methods, and Public Economics.
+
+If you are interested in viewing examples of my work, feel free to [reach out to me](mailto:maoarcilav@gmail.com?subject=[GitHub]). As a general practice, I maintain most of my projects as private, but I am more than willing to share them upon request.
 
 Please feel free to visit my [LinkedIn]({https://www.linkedin.com/in/andres-arcila-ph-d-84435637/)!
 
