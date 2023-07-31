@@ -1,6 +1,6 @@
 ## Hi there, welcome to my profile!👋
 
-### My name is Andres, and I hold a Ph.D. in Applied Economics. Currently based in Toronto, Canada, I have over 2 years of experience as a Senior Data Scientist. In addition to my expertise in data science, I possess a background in the financial sector, having previously worked at TD Bank in the Risk Management department for more than a year.
+ My name is Andres, and I hold a Ph.D. in Applied Economics. Currently based in Toronto, Canada, I have over 2 years of experience as a Senior Data Scientist. In addition to my expertise in data science, I possess a background in the financial sector, having previously worked at TD Bank in the Risk Management department for more than a year.
 
 I am also an esteemed lecturer in the Departments of Economics, and Political Science at the University of Waterloo. In this role, I teach courses in Econometrics, Statistical Research Methods, and Public Economics.
 
